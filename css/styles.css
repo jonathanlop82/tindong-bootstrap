@@ -52,3 +52,69 @@ h1 {
     width: 60%;
     transform: rotate(25deg);
 }
+
+/* Features  */
+#features {
+    padding: 7% 15%;
+}
+
+.features-list {
+    text-align: center;
+    padding: 4.5%;
+}
+
+.features-list h3 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.features-list p {
+    color: gray;
+}
+
+.icon {
+    color: #EF8172;
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+}
+
+.features-list i:hover {
+    color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials {
+    
+    text-align: center;
+    background-color: #EF8172;
+    color: white;
+}
+
+#testimonials h2 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonials-image {
+    width: 10%;
+    border-radius: 100%;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+    background-color: #EF8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
