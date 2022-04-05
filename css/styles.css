@@ -133,3 +133,42 @@ h2 {
 .pricing-column {
     padding: 3% 2%;
 }
+
+/* Caal to action and Footer section */
+
+#cta {
+    background-color: #ff4c68;
+    color: white;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+#cta h3 {
+    font-size: 3.5rem;
+}
+
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+#footer i {
+    padding: 0 10px;
+}
+
+
+@media (max-width: 1028px) {
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+
+    #title {
+        text-align: center;
+    }
+
+
+}
+
+
+
